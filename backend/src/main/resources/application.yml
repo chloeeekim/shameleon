@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: shameleon-backend
+
+  profiles:
+    active: local
+
+  threads:
+    virtual:
+      enabled: true
